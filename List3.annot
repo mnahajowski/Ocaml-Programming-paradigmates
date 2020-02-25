@@ -1,0 +1,1026 @@
+"Paradig\\List3.ml" 3 9 17 "Paradig\\List3.ml" 3 9 28
+type(
+  int list -> int
+)
+ident(
+  def listIloczyn "Paradig\\List3.ml" 3 9 9 "Paradig\\List3.ml" 1 0 -1
+)
+"Paradig\\List3.ml" 3 9 29 "Paradig\\List3.ml" 3 9 34
+ident(
+  def list1 "Paradig\\List3.ml" 4 39 40 "Paradig\\List3.ml" 6 110 158
+)
+"Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+type(
+  int list
+)
+"Paradig\\List3.ml" 4 39 43 "Paradig\\List3.ml" 4 39 48
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+)
+"Paradig\\List3.ml" 4 39 49 "Paradig\\List3.ml" 4 39 50
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 4 39 51 "Paradig\\List3.ml" 4 39 53
+type(
+  int list
+)
+"Paradig\\List3.ml" 4 39 43 "Paradig\\List3.ml" 4 39 53
+type(
+  bool
+)
+"Paradig\\List3.ml" 4 39 59 "Paradig\\List3.ml" 4 39 60
+type(
+  int
+)
+"Paradig\\List3.ml" 5 62 71 "Paradig\\List3.ml" 5 62 78
+type(
+  int list -> int list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 5 62 79 "Paradig\\List3.ml" 5 62 84
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+)
+"Paradig\\List3.ml" 5 62 71 "Paradig\\List3.ml" 5 62 84
+type(
+  int list
+)
+"Paradig\\List3.ml" 5 62 85 "Paradig\\List3.ml" 5 62 86
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 5 62 87 "Paradig\\List3.ml" 5 62 89
+type(
+  int list
+)
+"Paradig\\List3.ml" 5 62 71 "Paradig\\List3.ml" 5 62 89
+type(
+  bool
+)
+"Paradig\\List3.ml" 5 62 95 "Paradig\\List3.ml" 5 62 102
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.hd
+)
+"Paradig\\List3.ml" 5 62 103 "Paradig\\List3.ml" 5 62 108
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+)
+"Paradig\\List3.ml" 5 62 95 "Paradig\\List3.ml" 5 62 108
+type(
+  int
+)
+"Paradig\\List3.ml" 6 110 116 "Paradig\\List3.ml" 6 110 123
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.hd
+)
+"Paradig\\List3.ml" 6 110 124 "Paradig\\List3.ml" 6 110 129
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+)
+"Paradig\\List3.ml" 6 110 116 "Paradig\\List3.ml" 6 110 129
+type(
+  int
+)
+"Paradig\\List3.ml" 6 110 130 "Paradig\\List3.ml" 6 110 131
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Paradig\\List3.ml" 6 110 132 "Paradig\\List3.ml" 6 110 143
+type(
+  int list -> int
+)
+ident(
+  int_ref listIloczyn "Paradig\\List3.ml" 3 9 17 "Paradig\\List3.ml" 3 9 28
+)
+"Paradig\\List3.ml" 6 110 144 "Paradig\\List3.ml" 6 110 151
+type(
+  int list -> int list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 6 110 152 "Paradig\\List3.ml" 6 110 157
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 3 9 28 "Paradig\\List3.ml" 3 9 35
+)
+"Paradig\\List3.ml" 6 110 143 "Paradig\\List3.ml" 6 110 158
+type(
+  int list
+)
+"Paradig\\List3.ml" 6 110 132 "Paradig\\List3.ml" 6 110 158
+type(
+  int
+)
+"Paradig\\List3.ml" 6 110 116 "Paradig\\List3.ml" 6 110 158
+type(
+  int
+)
+"Paradig\\List3.ml" 5 62 68 "Paradig\\List3.ml" 6 110 158
+type(
+  int
+)
+"Paradig\\List3.ml" 4 39 40 "Paradig\\List3.ml" 6 110 158
+type(
+  int
+)
+"Paradig\\List3.ml" 8 164 164 "Paradig\\List3.ml" 8 164 175
+type(
+  int list -> int
+)
+ident(
+  int_ref listIloczyn "Paradig\\List3.ml" 3 9 17 "Paradig\\List3.ml" 3 9 28
+)
+"Paradig\\List3.ml" 8 164 177 "Paradig\\List3.ml" 8 164 178
+type(
+  int
+)
+"Paradig\\List3.ml" 8 164 179 "Paradig\\List3.ml" 8 164 180
+type(
+  int
+)
+"Paradig\\List3.ml" 8 164 181 "Paradig\\List3.ml" 8 164 182
+type(
+  int
+)
+"Paradig\\List3.ml" 8 164 183 "Paradig\\List3.ml" 8 164 184
+type(
+  int
+)
+"Paradig\\List3.ml" 8 164 175 "Paradig\\List3.ml" 8 164 186
+type(
+  int list
+)
+"Paradig\\List3.ml" 8 164 164 "Paradig\\List3.ml" 8 164 186
+type(
+  int
+)
+"Paradig\\List3.ml" 9 190 190 "Paradig\\List3.ml" 9 190 201
+type(
+  int list -> int
+)
+ident(
+  int_ref listIloczyn "Paradig\\List3.ml" 3 9 17 "Paradig\\List3.ml" 3 9 28
+)
+"Paradig\\List3.ml" 9 190 203 "Paradig\\List3.ml" 9 190 204
+type(
+  int
+)
+"Paradig\\List3.ml" 9 190 205 "Paradig\\List3.ml" 9 190 206
+type(
+  int
+)
+"Paradig\\List3.ml" 9 190 207 "Paradig\\List3.ml" 9 190 208
+type(
+  int
+)
+"Paradig\\List3.ml" 9 190 209 "Paradig\\List3.ml" 9 190 210
+type(
+  int
+)
+"Paradig\\List3.ml" 9 190 201 "Paradig\\List3.ml" 9 190 212
+type(
+  int list
+)
+"Paradig\\List3.ml" 9 190 190 "Paradig\\List3.ml" 9 190 212
+type(
+  int
+)
+"Paradig\\List3.ml" 10 216 216 "Paradig\\List3.ml" 10 216 227
+type(
+  int list -> int
+)
+ident(
+  int_ref listIloczyn "Paradig\\List3.ml" 3 9 17 "Paradig\\List3.ml" 3 9 28
+)
+"Paradig\\List3.ml" 10 216 229 "Paradig\\List3.ml" 10 216 230
+type(
+  int
+)
+"Paradig\\List3.ml" 10 216 227 "Paradig\\List3.ml" 10 216 232
+type(
+  int list
+)
+"Paradig\\List3.ml" 10 216 216 "Paradig\\List3.ml" 10 216 232
+type(
+  int
+)
+"Paradig\\List3.ml" 14 247 255 "Paradig\\List3.ml" 14 247 267
+type(
+  int list -> bool
+)
+ident(
+  def czyNieujemne "Paradig\\List3.ml" 14 247 247 "Paradig\\List3.ml" 1 0 -1
+)
+"Paradig\\List3.ml" 14 247 268 "Paradig\\List3.ml" 14 247 273
+ident(
+  def list1 "Paradig\\List3.ml" 15 279 280 "Paradig\\List3.ml" 16 305 378
+)
+"Paradig\\List3.ml" 14 247 267 "Paradig\\List3.ml" 14 247 274
+type(
+  int list
+)
+"Paradig\\List3.ml" 15 279 283 "Paradig\\List3.ml" 15 279 288
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 14 247 267 "Paradig\\List3.ml" 14 247 274
+)
+"Paradig\\List3.ml" 15 279 289 "Paradig\\List3.ml" 15 279 290
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 15 279 291 "Paradig\\List3.ml" 15 279 293
+type(
+  int list
+)
+"Paradig\\List3.ml" 15 279 283 "Paradig\\List3.ml" 15 279 293
+type(
+  bool
+)
+"Paradig\\List3.ml" 15 279 299 "Paradig\\List3.ml" 15 279 303
+type(
+  bool
+)
+"Paradig\\List3.ml" 16 305 315 "Paradig\\List3.ml" 16 305 322
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.hd
+)
+"Paradig\\List3.ml" 16 305 323 "Paradig\\List3.ml" 16 305 328
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 14 247 267 "Paradig\\List3.ml" 14 247 274
+)
+"Paradig\\List3.ml" 16 305 315 "Paradig\\List3.ml" 16 305 328
+type(
+  int
+)
+"Paradig\\List3.ml" 16 305 329 "Paradig\\List3.ml" 16 305 331
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Paradig\\List3.ml" 16 305 332 "Paradig\\List3.ml" 16 305 333
+type(
+  int
+)
+"Paradig\\List3.ml" 16 305 315 "Paradig\\List3.ml" 16 305 333
+type(
+  bool
+)
+"Paradig\\List3.ml" 16 305 339 "Paradig\\List3.ml" 16 305 351
+type(
+  int list -> bool
+)
+ident(
+  int_ref czyNieujemne "Paradig\\List3.ml" 14 247 255 "Paradig\\List3.ml" 14 247 267
+)
+"Paradig\\List3.ml" 16 305 352 "Paradig\\List3.ml" 16 305 359
+type(
+  int list -> int list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 16 305 360 "Paradig\\List3.ml" 16 305 365
+type(
+  int list
+)
+ident(
+  int_ref list1 "Paradig\\List3.ml" 14 247 267 "Paradig\\List3.ml" 14 247 274
+)
+"Paradig\\List3.ml" 16 305 351 "Paradig\\List3.ml" 16 305 366
+type(
+  int list
+)
+"Paradig\\List3.ml" 16 305 339 "Paradig\\List3.ml" 16 305 366
+type(
+  bool
+)
+"Paradig\\List3.ml" 16 305 372 "Paradig\\List3.ml" 16 305 377
+type(
+  bool
+)
+"Paradig\\List3.ml" 16 305 311 "Paradig\\List3.ml" 16 305 378
+type(
+  bool
+)
+"Paradig\\List3.ml" 15 279 280 "Paradig\\List3.ml" 16 305 378
+type(
+  bool
+)
+"Paradig\\List3.ml" 18 384 384 "Paradig\\List3.ml" 18 384 396
+type(
+  int list -> bool
+)
+ident(
+  int_ref czyNieujemne "Paradig\\List3.ml" 14 247 255 "Paradig\\List3.ml" 14 247 267
+)
+"Paradig\\List3.ml" 18 384 398 "Paradig\\List3.ml" 18 384 399
+type(
+  int
+)
+"Paradig\\List3.ml" 18 384 400 "Paradig\\List3.ml" 18 384 401
+type(
+  int
+)
+"Paradig\\List3.ml" 18 384 402 "Paradig\\List3.ml" 18 384 403
+type(
+  int
+)
+"Paradig\\List3.ml" 18 384 404 "Paradig\\List3.ml" 18 384 406
+type(
+  int
+)
+"Paradig\\List3.ml" 18 384 396 "Paradig\\List3.ml" 18 384 408
+type(
+  int list
+)
+"Paradig\\List3.ml" 18 384 384 "Paradig\\List3.ml" 18 384 408
+type(
+  bool
+)
+"Paradig\\List3.ml" 19 412 412 "Paradig\\List3.ml" 19 412 424
+type(
+  int list -> bool
+)
+ident(
+  int_ref czyNieujemne "Paradig\\List3.ml" 14 247 255 "Paradig\\List3.ml" 14 247 267
+)
+"Paradig\\List3.ml" 19 412 426 "Paradig\\List3.ml" 19 412 427
+type(
+  int
+)
+"Paradig\\List3.ml" 19 412 428 "Paradig\\List3.ml" 19 412 429
+type(
+  int
+)
+"Paradig\\List3.ml" 19 412 430 "Paradig\\List3.ml" 19 412 431
+type(
+  int
+)
+"Paradig\\List3.ml" 19 412 432 "Paradig\\List3.ml" 19 412 434
+type(
+  int
+)
+"Paradig\\List3.ml" 19 412 424 "Paradig\\List3.ml" 19 412 436
+type(
+  int list
+)
+"Paradig\\List3.ml" 19 412 412 "Paradig\\List3.ml" 19 412 436
+type(
+  bool
+)
+"Paradig\\List3.ml" 20 440 440 "Paradig\\List3.ml" 20 440 452
+type(
+  int list -> bool
+)
+ident(
+  int_ref czyNieujemne "Paradig\\List3.ml" 14 247 255 "Paradig\\List3.ml" 14 247 267
+)
+"Paradig\\List3.ml" 20 440 454 "Paradig\\List3.ml" 20 440 455
+type(
+  int
+)
+"Paradig\\List3.ml" 20 440 456 "Paradig\\List3.ml" 20 440 457
+type(
+  int
+)
+"Paradig\\List3.ml" 20 440 458 "Paradig\\List3.ml" 20 440 459
+type(
+  int
+)
+"Paradig\\List3.ml" 20 440 460 "Paradig\\List3.ml" 20 440 461
+type(
+  int
+)
+"Paradig\\List3.ml" 20 440 452 "Paradig\\List3.ml" 20 440 463
+type(
+  int list
+)
+"Paradig\\List3.ml" 20 440 440 "Paradig\\List3.ml" 20 440 463
+type(
+  bool
+)
+"Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+type(
+  int -> int
+)
+ident(
+  def silnia "Paradig\\List3.ml" 23 476 476 "Paradig\\List3.ml" 1 0 -1
+)
+"Paradig\\List3.ml" 23 476 491 "Paradig\\List3.ml" 23 476 497
+ident(
+  def number "Paradig\\List3.ml" 24 503 504 "Paradig\\List3.ml" 26 582 613
+)
+"Paradig\\List3.ml" 23 476 490 "Paradig\\List3.ml" 23 476 498
+type(
+  int
+)
+"Paradig\\List3.ml" 24 503 507 "Paradig\\List3.ml" 24 503 513
+type(
+  int
+)
+ident(
+  int_ref number "Paradig\\List3.ml" 23 476 490 "Paradig\\List3.ml" 23 476 498
+)
+"Paradig\\List3.ml" 24 503 514 "Paradig\\List3.ml" 24 503 515
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Paradig\\List3.ml" 24 503 516 "Paradig\\List3.ml" 24 503 517
+type(
+  int
+)
+"Paradig\\List3.ml" 24 503 506 "Paradig\\List3.ml" 24 503 518
+type(
+  bool
+)
+"Paradig\\List3.ml" 24 503 524 "Paradig\\List3.ml" 24 503 529
+type(
+  exn -> int
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Paradig\\List3.ml" 24 503 539 "Paradig\\List3.ml" 24 503 551
+type(
+  string
+)
+"Paradig\\List3.ml" 24 503 530 "Paradig\\List3.ml" 24 503 552
+type(
+  exn
+)
+"Paradig\\List3.ml" 24 503 524 "Paradig\\List3.ml" 24 503 552
+type(
+  int
+)
+"Paradig\\List3.ml" 25 554 563 "Paradig\\List3.ml" 25 554 569
+type(
+  int
+)
+ident(
+  int_ref number "Paradig\\List3.ml" 23 476 490 "Paradig\\List3.ml" 23 476 498
+)
+"Paradig\\List3.ml" 25 554 570 "Paradig\\List3.ml" 25 554 571
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 25 554 572 "Paradig\\List3.ml" 25 554 573
+type(
+  int
+)
+"Paradig\\List3.ml" 25 554 563 "Paradig\\List3.ml" 25 554 573
+type(
+  bool
+)
+"Paradig\\List3.ml" 25 554 579 "Paradig\\List3.ml" 25 554 580
+type(
+  int
+)
+"Paradig\\List3.ml" 26 582 588 "Paradig\\List3.ml" 26 582 594
+type(
+  int
+)
+ident(
+  int_ref number "Paradig\\List3.ml" 23 476 490 "Paradig\\List3.ml" 23 476 498
+)
+"Paradig\\List3.ml" 26 582 595 "Paradig\\List3.ml" 26 582 596
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Paradig\\List3.ml" 26 582 597 "Paradig\\List3.ml" 26 582 603
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+)
+"Paradig\\List3.ml" 26 582 604 "Paradig\\List3.ml" 26 582 610
+type(
+  int
+)
+ident(
+  int_ref number "Paradig\\List3.ml" 23 476 490 "Paradig\\List3.ml" 23 476 498
+)
+"Paradig\\List3.ml" 26 582 610 "Paradig\\List3.ml" 26 582 611
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Paradig\\List3.ml" 26 582 611 "Paradig\\List3.ml" 26 582 612
+type(
+  int
+)
+"Paradig\\List3.ml" 26 582 603 "Paradig\\List3.ml" 26 582 613
+type(
+  int
+)
+"Paradig\\List3.ml" 26 582 597 "Paradig\\List3.ml" 26 582 613
+type(
+  int
+)
+"Paradig\\List3.ml" 26 582 588 "Paradig\\List3.ml" 26 582 613
+type(
+  int
+)
+"Paradig\\List3.ml" 25 554 560 "Paradig\\List3.ml" 26 582 613
+type(
+  int
+)
+"Paradig\\List3.ml" 24 503 504 "Paradig\\List3.ml" 26 582 613
+type(
+  int
+)
+"Paradig\\List3.ml" 28 619 619 "Paradig\\List3.ml" 28 619 625
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+)
+"Paradig\\List3.ml" 28 619 625 "Paradig\\List3.ml" 28 619 628
+type(
+  int
+)
+"Paradig\\List3.ml" 28 619 619 "Paradig\\List3.ml" 28 619 628
+type(
+  int
+)
+"Paradig\\List3.ml" 29 632 632 "Paradig\\List3.ml" 29 632 638
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+)
+"Paradig\\List3.ml" 29 632 638 "Paradig\\List3.ml" 29 632 641
+type(
+  int
+)
+"Paradig\\List3.ml" 29 632 632 "Paradig\\List3.ml" 29 632 641
+type(
+  int
+)
+"Paradig\\List3.ml" 30 645 645 "Paradig\\List3.ml" 30 645 651
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+)
+"Paradig\\List3.ml" 30 645 651 "Paradig\\List3.ml" 30 645 654
+type(
+  int
+)
+"Paradig\\List3.ml" 30 645 645 "Paradig\\List3.ml" 30 645 654
+type(
+  int
+)
+"Paradig\\List3.ml" 31 658 658 "Paradig\\List3.ml" 31 658 664
+type(
+  int -> int
+)
+ident(
+  int_ref silnia "Paradig\\List3.ml" 23 476 484 "Paradig\\List3.ml" 23 476 490
+)
+"Paradig\\List3.ml" 31 658 664 "Paradig\\List3.ml" 31 658 667
+type(
+  int
+)
+"Paradig\\List3.ml" 31 658 658 "Paradig\\List3.ml" 31 658 667
+type(
+  int
+)
+"Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+type(
+  string list * 'a * string -> string
+)
+ident(
+  def lacznik "Paradig\\List3.ml" 35 682 682 "Paradig\\List3.ml" 1 0 -1
+)
+"Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+type(
+  string list
+)
+ident(
+  def lista "Paradig\\List3.ml" 36 720 721 "Paradig\\List3.ml" 38 830 893
+)
+"Paradig\\List3.ml" 35 682 705 "Paradig\\List3.ml" 35 682 709
+type(
+  'a
+)
+ident(
+  def znak "Paradig\\List3.ml" 36 720 721 "Paradig\\List3.ml" 38 830 893
+)
+"Paradig\\List3.ml" 35 682 711 "Paradig\\List3.ml" 35 682 714
+type(
+  string
+)
+ident(
+  def sep "Paradig\\List3.ml" 36 720 721 "Paradig\\List3.ml" 38 830 893
+)
+"Paradig\\List3.ml" 35 682 697 "Paradig\\List3.ml" 35 682 715
+type(
+  string list * 'a * string
+)
+"Paradig\\List3.ml" 36 720 724 "Paradig\\List3.ml" 36 720 729
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 36 720 730 "Paradig\\List3.ml" 36 720 731
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 36 720 732 "Paradig\\List3.ml" 36 720 734
+type(
+  string list
+)
+"Paradig\\List3.ml" 36 720 724 "Paradig\\List3.ml" 36 720 734
+type(
+  bool
+)
+"Paradig\\List3.ml" 36 720 740 "Paradig\\List3.ml" 36 720 742
+type(
+  string
+)
+"Paradig\\List3.ml" 37 744 754 "Paradig\\List3.ml" 37 744 761
+type(
+  string list -> string list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 37 744 762 "Paradig\\List3.ml" 37 744 767
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 37 744 754 "Paradig\\List3.ml" 37 744 767
+type(
+  string list
+)
+"Paradig\\List3.ml" 37 744 768 "Paradig\\List3.ml" 37 744 769
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Paradig\\List3.ml" 37 744 770 "Paradig\\List3.ml" 37 744 772
+type(
+  string list
+)
+"Paradig\\List3.ml" 37 744 753 "Paradig\\List3.ml" 37 744 773
+type(
+  bool
+)
+"Paradig\\List3.ml" 37 744 779 "Paradig\\List3.ml" 37 744 786
+type(
+  string list -> string
+)
+ident(
+  ext_ref List.hd
+)
+"Paradig\\List3.ml" 37 744 787 "Paradig\\List3.ml" 37 744 792
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 37 744 779 "Paradig\\List3.ml" 37 744 792
+type(
+  string
+)
+"Paradig\\List3.ml" 37 744 793 "Paradig\\List3.ml" 37 744 794
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Paradig\\List3.ml" 37 744 795 "Paradig\\List3.ml" 37 744 802
+type(
+  string list * 'a * string -> string
+)
+ident(
+  int_ref lacznik "Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+)
+"Paradig\\List3.ml" 37 744 803 "Paradig\\List3.ml" 37 744 810
+type(
+  string list -> string list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 37 744 811 "Paradig\\List3.ml" 37 744 816
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 37 744 803 "Paradig\\List3.ml" 37 744 816
+type(
+  string list
+)
+"Paradig\\List3.ml" 37 744 818 "Paradig\\List3.ml" 37 744 822
+type(
+  'a
+)
+ident(
+  int_ref znak "Paradig\\List3.ml" 35 682 705 "Paradig\\List3.ml" 35 682 709
+)
+"Paradig\\List3.ml" 37 744 824 "Paradig\\List3.ml" 37 744 827
+type(
+  string
+)
+ident(
+  int_ref sep "Paradig\\List3.ml" 35 682 711 "Paradig\\List3.ml" 35 682 714
+)
+"Paradig\\List3.ml" 37 744 802 "Paradig\\List3.ml" 37 744 828
+type(
+  string list * 'a * string
+)
+"Paradig\\List3.ml" 37 744 795 "Paradig\\List3.ml" 37 744 828
+type(
+  string
+)
+"Paradig\\List3.ml" 37 744 779 "Paradig\\List3.ml" 37 744 828
+type(
+  string
+)
+"Paradig\\List3.ml" 38 830 837 "Paradig\\List3.ml" 38 830 844
+type(
+  string list -> string
+)
+ident(
+  ext_ref List.hd
+)
+"Paradig\\List3.ml" 38 830 845 "Paradig\\List3.ml" 38 830 850
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 38 830 837 "Paradig\\List3.ml" 38 830 850
+type(
+  string
+)
+"Paradig\\List3.ml" 38 830 851 "Paradig\\List3.ml" 38 830 852
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Paradig\\List3.ml" 38 830 853 "Paradig\\List3.ml" 38 830 856
+type(
+  string
+)
+ident(
+  int_ref sep "Paradig\\List3.ml" 35 682 711 "Paradig\\List3.ml" 35 682 714
+)
+"Paradig\\List3.ml" 38 830 857 "Paradig\\List3.ml" 38 830 858
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Paradig\\List3.ml" 38 830 859 "Paradig\\List3.ml" 38 830 866
+type(
+  string list * 'a * string -> string
+)
+ident(
+  int_ref lacznik "Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+)
+"Paradig\\List3.ml" 38 830 867 "Paradig\\List3.ml" 38 830 874
+type(
+  string list -> string list
+)
+ident(
+  ext_ref List.tl
+)
+"Paradig\\List3.ml" 38 830 875 "Paradig\\List3.ml" 38 830 880
+type(
+  string list
+)
+ident(
+  int_ref lista "Paradig\\List3.ml" 35 682 698 "Paradig\\List3.ml" 35 682 703
+)
+"Paradig\\List3.ml" 38 830 867 "Paradig\\List3.ml" 38 830 880
+type(
+  string list
+)
+"Paradig\\List3.ml" 38 830 882 "Paradig\\List3.ml" 38 830 886
+type(
+  'a
+)
+ident(
+  int_ref znak "Paradig\\List3.ml" 35 682 705 "Paradig\\List3.ml" 35 682 709
+)
+"Paradig\\List3.ml" 38 830 888 "Paradig\\List3.ml" 38 830 891
+type(
+  string
+)
+ident(
+  int_ref sep "Paradig\\List3.ml" 35 682 711 "Paradig\\List3.ml" 35 682 714
+)
+"Paradig\\List3.ml" 38 830 866 "Paradig\\List3.ml" 38 830 892
+type(
+  string list * 'a * string
+)
+"Paradig\\List3.ml" 38 830 859 "Paradig\\List3.ml" 38 830 892
+type(
+  string
+)
+"Paradig\\List3.ml" 38 830 853 "Paradig\\List3.ml" 38 830 892
+type(
+  string
+)
+"Paradig\\List3.ml" 38 830 836 "Paradig\\List3.ml" 38 830 893
+type(
+  string
+)
+"Paradig\\List3.ml" 37 744 750 "Paradig\\List3.ml" 38 830 893
+type(
+  string
+)
+"Paradig\\List3.ml" 36 720 721 "Paradig\\List3.ml" 38 830 893
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 900 "Paradig\\List3.ml" 40 900 907
+type(
+  string list * string * string -> string
+)
+ident(
+  int_ref lacznik "Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+)
+"Paradig\\List3.ml" 40 900 909 "Paradig\\List3.ml" 40 900 916
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 917 "Paradig\\List3.ml" 40 900 923
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 924 "Paradig\\List3.ml" 40 900 935
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 908 "Paradig\\List3.ml" 40 900 936
+type(
+  string list
+)
+"Paradig\\List3.ml" 40 900 938 "Paradig\\List3.ml" 40 900 941
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 943 "Paradig\\List3.ml" 40 900 946
+type(
+  string
+)
+"Paradig\\List3.ml" 40 900 907 "Paradig\\List3.ml" 40 900 947
+type(
+  string list * string * string
+)
+"Paradig\\List3.ml" 40 900 900 "Paradig\\List3.ml" 40 900 947
+type(
+  string
+)
+"Paradig\\List3.ml" 41 951 951 "Paradig\\List3.ml" 41 951 958
+type(
+  string list * string * string -> string
+)
+ident(
+  int_ref lacznik "Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+)
+"Paradig\\List3.ml" 41 951 960 "Paradig\\List3.ml" 41 951 966
+type(
+  string
+)
+"Paradig\\List3.ml" 41 951 967 "Paradig\\List3.ml" 41 951 974
+type(
+  string
+)
+"Paradig\\List3.ml" 41 951 959 "Paradig\\List3.ml" 41 951 975
+type(
+  string list
+)
+"Paradig\\List3.ml" 41 951 977 "Paradig\\List3.ml" 41 951 980
+type(
+  string
+)
+"Paradig\\List3.ml" 41 951 982 "Paradig\\List3.ml" 41 951 985
+type(
+  string
+)
+"Paradig\\List3.ml" 41 951 958 "Paradig\\List3.ml" 41 951 986
+type(
+  string list * string * string
+)
+"Paradig\\List3.ml" 41 951 951 "Paradig\\List3.ml" 41 951 986
+type(
+  string
+)
+"Paradig\\List3.ml" 42 990 990 "Paradig\\List3.ml" 42 990 997
+type(
+  string list * string * string -> string
+)
+ident(
+  int_ref lacznik "Paradig\\List3.ml" 35 682 690 "Paradig\\List3.ml" 35 682 697
+)
+"Paradig\\List3.ml" 42 990 999 "Paradig\\List3.ml" 42 990 1006
+type(
+  string
+)
+"Paradig\\List3.ml" 42 990 1007 "Paradig\\List3.ml" 42 990 1013
+type(
+  string
+)
+"Paradig\\List3.ml" 42 990 998 "Paradig\\List3.ml" 42 990 1014
+type(
+  string list
+)
+"Paradig\\List3.ml" 42 990 1016 "Paradig\\List3.ml" 42 990 1019
+type(
+  string
+)
+"Paradig\\List3.ml" 42 990 1021 "Paradig\\List3.ml" 42 990 1024
+type(
+  string
+)
+"Paradig\\List3.ml" 42 990 997 "Paradig\\List3.ml" 42 990 1025
+type(
+  string list * string * string
+)
+"Paradig\\List3.ml" 42 990 990 "Paradig\\List3.ml" 42 990 1025
+type(
+  string
+)

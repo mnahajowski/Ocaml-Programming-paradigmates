@@ -1,0 +1,270 @@
+"Paradig\\First.ml" 2 2 6 "Paradig\\First.ml" 2 2 8
+type(
+  float
+)
+ident(
+  def x1 "Paradig\\First.ml" 4 20 20 "Paradig\\First.ml" 1 0 -1
+)
+"Paradig\\First.ml" 2 2 11 "Paradig\\First.ml" 2 2 14
+type(
+  float
+)
+"Paradig\\First.ml" 4 20 26 "Paradig\\First.ml" 4 20 27
+type(
+  float
+)
+ident(
+  def x "Paradig\\First.ml" 5 56 57 "Paradig\\First.ml" 6 68 93
+)
+"Paradig\\First.ml" 4 20 30 "Paradig\\First.ml" 4 20 32
+type(
+  float
+)
+ident(
+  int_ref x1 "Paradig\\First.ml" 2 2 6 "Paradig\\First.ml" 2 2 8
+)
+"Paradig\\First.ml" 4 20 33 "Paradig\\First.ml" 4 20 35
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Paradig\\First.ml" 4 20 36 "Paradig\\First.ml" 4 20 38
+type(
+  float
+)
+ident(
+  int_ref x1 "Paradig\\First.ml" 2 2 6 "Paradig\\First.ml" 2 2 8
+)
+"Paradig\\First.ml" 4 20 30 "Paradig\\First.ml" 4 20 38
+type(
+  float
+)
+"Paradig\\First.ml" 4 20 43 "Paradig\\First.ml" 4 20 44
+type(
+  float
+)
+ident(
+  def y "Paradig\\First.ml" 5 56 57 "Paradig\\First.ml" 6 68 93
+)
+"Paradig\\First.ml" 4 20 47 "Paradig\\First.ml" 4 20 50
+type(
+  float
+)
+"Paradig\\First.ml" 5 56 57 "Paradig\\First.ml" 5 56 58
+type(
+  float
+)
+ident(
+  int_ref x "Paradig\\First.ml" 4 20 26 "Paradig\\First.ml" 4 20 27
+)
+"Paradig\\First.ml" 5 56 59 "Paradig\\First.ml" 5 56 61
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Paradig\\First.ml" 5 56 62 "Paradig\\First.ml" 5 56 63
+type(
+  float
+)
+ident(
+  int_ref x "Paradig\\First.ml" 4 20 26 "Paradig\\First.ml" 4 20 27
+)
+"Paradig\\First.ml" 5 56 57 "Paradig\\First.ml" 5 56 63
+type(
+  float
+)
+"Paradig\\First.ml" 5 56 64 "Paradig\\First.ml" 5 56 66
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Paradig\\First.ml" 6 68 74 "Paradig\\First.ml" 6 68 75
+type(
+  float
+)
+ident(
+  def x "Paradig\\First.ml" 6 68 86 "Paradig\\First.ml" 6 68 92
+)
+"Paradig\\First.ml" 6 68 78 "Paradig\\First.ml" 6 68 82
+type(
+  float
+)
+"Paradig\\First.ml" 6 68 86 "Paradig\\First.ml" 6 68 87
+type(
+  float
+)
+ident(
+  int_ref x "Paradig\\First.ml" 6 68 74 "Paradig\\First.ml" 6 68 75
+)
+"Paradig\\First.ml" 6 68 88 "Paradig\\First.ml" 6 68 90
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Paradig\\First.ml" 6 68 91 "Paradig\\First.ml" 6 68 92
+type(
+  float
+)
+ident(
+  int_ref y "Paradig\\First.ml" 4 20 43 "Paradig\\First.ml" 4 20 44
+)
+"Paradig\\First.ml" 6 68 86 "Paradig\\First.ml" 6 68 92
+type(
+  float
+)
+"Paradig\\First.ml" 6 68 69 "Paradig\\First.ml" 6 68 93
+type(
+  float
+)
+"Paradig\\First.ml" 5 56 57 "Paradig\\First.ml" 6 68 93
+type(
+  float
+)
+"Paradig\\First.ml" 4 20 21 "Paradig\\First.ml" 7 95 97
+type(
+  float
+)
+"Paradig\\First.ml" 7 95 98 "Paradig\\First.ml" 7 95 100
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Paradig\\First.ml" 7 95 101 "Paradig\\First.ml" 7 95 104
+type(
+  float
+)
+"Paradig\\First.ml" 4 20 20 "Paradig\\First.ml" 7 95 105
+type(
+  float
+)
+"Paradig\\First.ml" 9 111 115 "Paradig\\First.ml" 9 111 117
+type(
+  int
+)
+ident(
+  def x2 "Paradig\\First.ml" 10 125 125 "Paradig\\First.ml" 1 0 -1
+)
+"Paradig\\First.ml" 9 111 120 "Paradig\\First.ml" 9 111 121
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 129 "Paradig\\First.ml" 10 125 131
+type(
+  int * float * bool
+)
+ident(
+  def k3 "Paradig\\First.ml" 11 151 151 "Paradig\\First.ml" 1 0 -1
+)
+"Paradig\\First.ml" 10 125 135 "Paradig\\First.ml" 10 125 136
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 136 "Paradig\\First.ml" 10 125 137
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Paradig\\First.ml" 10 125 137 "Paradig\\First.ml" 10 125 138
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 135 "Paradig\\First.ml" 10 125 138
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 139 "Paradig\\First.ml" 10 125 141
+type(
+  float
+)
+"Paradig\\First.ml" 10 125 143 "Paradig\\First.ml" 10 125 144
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 145 "Paradig\\First.ml" 10 125 146
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Paradig\\First.ml" 10 125 147 "Paradig\\First.ml" 10 125 148
+type(
+  int
+)
+"Paradig\\First.ml" 10 125 143 "Paradig\\First.ml" 10 125 148
+type(
+  bool
+)
+"Paradig\\First.ml" 10 125 134 "Paradig\\First.ml" 10 125 149
+type(
+  int * float * bool
+)
+"Paradig\\First.ml" 11 151 155 "Paradig\\First.ml" 11 151 159
+type(
+  'a * 'b * 'c -> 'a
+)
+ident(
+  def k3_1 "Paradig\\First.ml" 12 175 175 "Paradig\\First.ml" 1 0 -1
+)
+"Paradig\\First.ml" 11 151 161 "Paradig\\First.ml" 11 151 162
+type(
+  'a
+)
+ident(
+  def x "Paradig\\First.ml" 11 151 170 "Paradig\\First.ml" 11 151 171
+)
+"Paradig\\First.ml" 11 151 163 "Paradig\\First.ml" 11 151 164
+type(
+  'b
+)
+ident(
+  def y "Paradig\\First.ml" 11 151 170 "Paradig\\First.ml" 11 151 171
+)
+"Paradig\\First.ml" 11 151 165 "Paradig\\First.ml" 11 151 166
+type(
+  'c
+)
+ident(
+  def z "Paradig\\First.ml" 11 151 170 "Paradig\\First.ml" 11 151 171
+)
+"Paradig\\First.ml" 11 151 160 "Paradig\\First.ml" 11 151 167
+type(
+  'a * 'b * 'c
+)
+"Paradig\\First.ml" 11 151 170 "Paradig\\First.ml" 11 151 171
+type(
+  'a
+)
+ident(
+  int_ref x "Paradig\\First.ml" 11 151 161 "Paradig\\First.ml" 11 151 162
+)
+"Paradig\\First.ml" 12 175 175 "Paradig\\First.ml" 12 175 179
+type(
+  int * float * bool -> int
+)
+ident(
+  int_ref k3_1 "Paradig\\First.ml" 11 151 155 "Paradig\\First.ml" 11 151 159
+)
+"Paradig\\First.ml" 12 175 180 "Paradig\\First.ml" 12 175 182
+type(
+  int * float * bool
+)
+ident(
+  int_ref k3 "Paradig\\First.ml" 10 125 129 "Paradig\\First.ml" 10 125 131
+)
+"Paradig\\First.ml" 12 175 175 "Paradig\\First.ml" 12 175 182
+type(
+  int
+)

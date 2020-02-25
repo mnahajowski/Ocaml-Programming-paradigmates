@@ -1,0 +1,140 @@
+"Paradig\\List5+6.ml" 3 58 62 "Paradig\\List5+6.ml" 3 58 69
+type(
+  int -> '_a -> '_b
+)
+ident(
+  def lrepeat "Paradig\\List5+6.ml" 19 439 439 "Paradig\\List5+6.ml" 1 0 -1
+)
+"Paradig\\List5+6.ml" 3 58 70 "Paradig\\List5+6.ml" 3 58 71
+type(
+  int
+)
+ident(
+  def k "Paradig\\List5+6.ml" 3 58 72 "Paradig\\List5+6.ml" 8 305 325
+)
+"Paradig\\List5+6.ml" 3 58 72 "Paradig\\List5+6.ml" 3 58 77
+type(
+  '_a
+)
+ident(
+  def llist "Paradig\\List5+6.ml" 4 81 82 "Paradig\\List5+6.ml" 8 305 325
+)
+"Paradig\\List5+6.ml" 4 81 90 "Paradig\\List5+6.ml" 4 81 96
+type(
+  int * '_c llist -> '_d llist
+)
+ident(
+  def helper "Paradig\\List5+6.ml" 4 81 82 "Paradig\\List5+6.ml" 8 305 325
+)
+"Paradig\\List5+6.ml" 4 81 97 "Paradig\\List5+6.ml" 4 81 101
+type(
+  int
+)
+ident(
+  def reps "Paradig\\List5+6.ml" 4 81 111 "Paradig\\List5+6.ml" 7 227 303
+)
+"Paradig\\List5+6.ml" 4 81 103 "Paradig\\List5+6.ml" 4 81 107
+type(
+  '_c llist
+)
+ident(
+  def rest "Paradig\\List5+6.ml" 4 81 111 "Paradig\\List5+6.ml" 7 227 303
+)
+"Paradig\\List5+6.ml" 4 81 96 "Paradig\\List5+6.ml" 4 81 108
+type(
+  int * '_c llist
+)
+"Paradig\\List5+6.ml" 4 81 118 "Paradig\\List5+6.ml" 4 81 122
+type(
+  int
+)
+ident(
+  int_ref reps "Paradig\\List5+6.ml" 4 81 97 "Paradig\\List5+6.ml" 4 81 101
+)
+"Paradig\\List5+6.ml" 4 81 124 "Paradig\\List5+6.ml" 4 81 128
+type(
+  '_c llist
+)
+ident(
+  int_ref rest "Paradig\\List5+6.ml" 4 81 103 "Paradig\\List5+6.ml" 4 81 107
+)
+"Paradig\\List5+6.ml" 4 81 117 "Paradig\\List5+6.ml" 4 81 129
+type(
+  int * '_c llist
+)
+"Paradig\\List5+6.ml" 5 136 141 "Paradig\\List5+6.ml" 5 136 142
+type(
+  int
+)
+"Paradig\\List5+6.ml" 5 136 144 "Paradig\\List5+6.ml" 5 136 148
+type(
+  '_c llist
+)
+"Paradig\\List5+6.ml" 5 136 140 "Paradig\\List5+6.ml" 5 136 149
+type(
+  int * '_c llist
+)
+"Paradig\\List5+6.ml" 5 136 153 "Paradig\\List5+6.ml" 5 136 157
+type(
+  '_d llist
+)
+"Paradig\\List5+6.ml" 6 159 164 "Paradig\\List5+6.ml" 6 159 165
+type(
+  int
+)
+"Paradig\\List5+6.ml" 6 159 173 "Paradig\\List5+6.ml" 6 159 174
+type(
+  '_c
+)
+"Paradig\\List5+6.ml" 6 159 176 "Paradig\\List5+6.ml" 6 159 180
+type(
+  '_c llist Lazy.t
+)
+ident(
+  def tail "Paradig\\List5+6.ml" 6 159 187 "Paradig\\List5+6.ml" 6 159 225
+)
+"Paradig\\List5+6.ml" 6 159 167 "Paradig\\List5+6.ml" 6 159 182
+type(
+  '_c llist
+)
+"Paradig\\List5+6.ml" 6 159 163 "Paradig\\List5+6.ml" 6 159 183
+type(
+  int * '_c llist
+)
+"Paradig\\List5+6.ml" 6 159 187 "Paradig\\List5+6.ml" 6 159 193
+type(
+  int * '_c llist -> '_d llist
+)
+ident(
+  int_ref helper "Paradig\\List5+6.ml" 4 81 90 "Paradig\\List5+6.ml" 4 81 96
+)
+"Paradig\\List5+6.ml" 6 159 194 "Paradig\\List5+6.ml" 6 159 195
+type(
+  int
+)
+ident(
+  int_ref k "Paradig\\List5+6.ml" 3 58 70 "Paradig\\List5+6.ml" 3 58 71
+)
+"Paradig\\List5+6.ml" 7 227 232 "Paradig\\List5+6.ml" 7 227 233
+type(
+  int
+)
+"Paradig\\List5+6.ml" 7 227 241 "Paradig\\List5+6.ml" 7 227 245
+type(
+  '_c
+)
+ident(
+  def head "Paradig\\List5+6.ml" 7 227 254 "Paradig\\List5+6.ml" 7 227 303
+)
+"Paradig\\List5+6.ml" 7 227 247 "Paradig\\List5+6.ml" 7 227 248
+type(
+  '_c llist Lazy.t
+)
+"Paradig\\List5+6.ml" 7 227 235 "Paradig\\List5+6.ml" 7 227 249
+type(
+  '_c llist
+)
+"Paradig\\List5+6.ml" 7 227 231 "Paradig\\List5+6.ml" 7 227 250
+type(
+  int * '_c llist
+)

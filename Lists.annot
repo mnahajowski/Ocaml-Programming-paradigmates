@@ -1,0 +1,94 @@
+"Paradig\\Lists.ml" 1 0 4 "Paradig\\Lists.ml" 1 0 6
+type(
+  'a -> 'a list -> 'b -> 'a list
+)
+ident(
+  def f2 "Paradig\\Lists.ml" 4 39 39 "Paradig\\Lists.ml" 1 0 -1
+)
+"Paradig\\Lists.ml" 1 0 7 "Paradig\\Lists.ml" 1 0 8
+type(
+  'a
+)
+ident(
+  def x "Paradig\\Lists.ml" 1 0 9 "Paradig\\Lists.ml" 1 0 33
+)
+"Paradig\\Lists.ml" 1 0 9 "Paradig\\Lists.ml" 1 0 10
+type(
+  'a list
+)
+ident(
+  def y "Paradig\\Lists.ml" 1 0 13 "Paradig\\Lists.ml" 1 0 33
+)
+"Paradig\\Lists.ml" 1 0 22 "Paradig\\Lists.ml" 1 0 23
+type(
+  'b
+)
+ident(
+  def z "Paradig\\Lists.ml" 1 0 27 "Paradig\\Lists.ml" 1 0 33
+)
+"Paradig\\Lists.ml" 1 0 27 "Paradig\\Lists.ml" 1 0 28
+type(
+  'a
+)
+ident(
+  int_ref x "Paradig\\Lists.ml" 1 0 7 "Paradig\\Lists.ml" 1 0 8
+)
+"Paradig\\Lists.ml" 1 0 32 "Paradig\\Lists.ml" 1 0 33
+type(
+  'a list
+)
+ident(
+  int_ref y "Paradig\\Lists.ml" 1 0 9 "Paradig\\Lists.ml" 1 0 10
+)
+"Paradig\\Lists.ml" 1 0 27 "Paradig\\Lists.ml" 1 0 33
+type(
+  'a list
+)
+"Paradig\\Lists.ml" 1 0 13 "Paradig\\Lists.ml" 1 0 33
+type(
+  'b -> 'a list
+)
+"Paradig\\Lists.ml" 4 39 43 "Paradig\\Lists.ml" 4 39 45
+type(
+  int -> int
+)
+ident(
+  def f2 "Paradig\\Lists.ml" 7 90 90 "Paradig\\Lists.ml" 1 0 -1
+)
+"Paradig\\Lists.ml" 4 39 46 "Paradig\\Lists.ml" 4 39 47
+type(
+  int
+)
+ident(
+  def a "Paradig\\Lists.ml" 5 51 52 "Paradig\\Lists.ml" 5 51 84
+)
+"Paradig\\Lists.ml" 5 51 55 "Paradig\\Lists.ml" 5 51 56
+type(
+  int
+)
+ident(
+  int_ref a "Paradig\\Lists.ml" 4 39 46 "Paradig\\Lists.ml" 4 39 47
+)
+"Paradig\\Lists.ml" 5 51 57 "Paradig\\Lists.ml" 5 51 58
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Paradig\\Lists.ml" 5 51 59 "Paradig\\Lists.ml" 5 51 61
+type(
+  int
+)
+"Paradig\\Lists.ml" 5 51 55 "Paradig\\Lists.ml" 5 51 61
+type(
+  bool
+)
+"Paradig\\Lists.ml" 5 51 67 "Paradig\\Lists.ml" 5 51 68
+type(
+  int
+)
+"Paradig\\Lists.ml" 5 51 74 "Paradig\\Lists.ml" 5 51 84
+type(
+  string
+)
